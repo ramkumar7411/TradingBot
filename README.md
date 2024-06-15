@@ -91,7 +91,6 @@ You can start TradingBot with
 ```
 trading_bot
 ```
-
 You can start it in detached mode letting it run in the background with
 ```
 nohup trading_bot >/dev/null 2>&1 &
